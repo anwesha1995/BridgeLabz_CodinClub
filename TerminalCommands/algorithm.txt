@@ -1,0 +1,5 @@
+Step 1- Find the files in folder stage1-review
+Step 2- Segragate the names and the extensions of the files
+Step 3- Create folders with same names as the file names
+Step 4- Create sub-folders with same file-extension-names specifically
+Step 5- Cut and paste the original files into the sub-folders
